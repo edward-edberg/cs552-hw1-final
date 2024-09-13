@@ -1,0 +1,1 @@
+There’s propagation delay when we’re using full adder (ripple carry adder). Because in order to do operation we must wait from the previous process. If the number is really big, this will become huge problem. We waste time waiting for the carry to arrive.
